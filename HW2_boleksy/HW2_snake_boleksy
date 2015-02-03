@@ -1,0 +1,7 @@
+//Make sure that 2D
+use2D = true;
+
+//initialize game canvas
+initGame("canvas");
+
+snga
